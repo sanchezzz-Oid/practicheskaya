@@ -1,6 +1,6 @@
 # Телевизор Samsung QE55QEF1AUXRU
 ## Описание
-- Tелевизор Samsung вышел в 2025 с диагональю экрана 55 дюймов (140 см) и разрешением 4K UHD.
+Tелевизор Samsung вышел в 2025 с диагональю экрана 55 дюймов (140 см) и разрешением 4K UHD.
 <img width="515" height="329" alt="image" src="https://github.com/user-attachments/assets/5eb35b45-1cd5-4007-bec1-5ccd5b9cf55f" />
 
 ## Подробная информация
